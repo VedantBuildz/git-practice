@@ -18,3 +18,5 @@ Build practical development skills and prepare for hackathons and open-source co
 
 ## DAILY PRACTICE (from 11-10-2026)
 1- Revised DSA
+2- Revised DSA and GITHUB
+
