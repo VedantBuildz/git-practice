@@ -1,2 +1,4 @@
 Today, I started learning Git.
 I understand the basics of commit.
+
+Now,learning how branches work.
